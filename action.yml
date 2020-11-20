@@ -1,0 +1,6 @@
+# action.yml
+name: 'Satis Console Command Action'
+description: 'This action runs a Satis command'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
